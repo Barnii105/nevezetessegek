@@ -1,0 +1,10 @@
+Lapa;Rio;1800
+Megváltó Krisztus szobra;Corcovadó csúcsa;1922
+Maracana Stadion;Rio belvárosa;1950
+Tijuca Nemzeti Park;Pico da Tijuca;1853
+Jardim Botanico;Lagoa-tól nyugatra;1800
+Amerika;New York;Szabadság szobor;1947
+Amerika;Los Angeles;Hollywood tábla,épült;1887
+Barcelona;Spanyolország;Camp Nou;1948
+Madrid;Spanyolország;Santiago Bernabéu stadion;1944
+Párizs;Franciaország;Eiffel torony;1888
